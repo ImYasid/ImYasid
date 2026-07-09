@@ -35,13 +35,4 @@
 
 ---
 
-## 🎯 Current Focus
-
-- ⚡ **Hardware Hacking:** Researching hardware network implants for automated EDR evasion (Bachelor's Thesis).
-- 🌐 **Infrastructure Exploitation:** Deep diving into Active Directory Security and Red Team Operations.
-- 🔐 **Privilege Escalation:** Mastering advanced techniques in both Windows and Linux environments.
-- 🐍 **Offensive Automation:** Building custom Python scripts to streamline reconnaissance and data extraction.
-
----
-
 > *"Understanding how systems break is the first step toward building them securely."*
